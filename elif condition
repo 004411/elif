@@ -6,3 +6,13 @@ else:
   print("wrong")
   
   #The Reult is (wrong).
+  
+ #part2 If the first condition isn't met, test whether "cat" equals "cat." If so display ok.
+ 
+ if "dog" == "cat":
+  proposition = "crazy"
+else:
+  "cat" == "cat"
+  print("ok")
+
+#The Reult is (ok).
