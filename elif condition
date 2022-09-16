@@ -1,7 +1,6 @@
 #Display wrong if the condition isn't met.
 if "dog" == "cat":
   print ("That's crazy")
-# On the next two lines, display "wrong" if the condition isn't met.
 else:
   print("wrong")
   
